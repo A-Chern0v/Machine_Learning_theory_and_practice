@@ -15,20 +15,16 @@
 | 01 | Pandas                                                      | Series, DataFrame, фильтрация, группировка, полезные методы               |
 | 02 | Matplotlib                                                  | Базовый синтаксис, объект Figure, SubPlots, стилизация графиков           |
 | 03 | Seaborn                                                     | Визуализация данных, графики, тепловые карты                              |
-| 04 | Linear & Polynomial Regression & Regularization             | Теория, реализация и работа с моделью, Регуляризация L1 и L2, 
-                                                                     Ridge & Lasso регрессия, Elastic Net                                      |
-| 05 | Feature Engineering                                         | Пропуски, выбросы, кодирование, работа с категорийными(категориальными) 
-                                                                     данными                                                                   |
+| 04 | Linear & Polynomial Regression & Regularization             | Теория, реализация и работа с моделью, Регуляризация L1 и L2, Ridge & Lasso регрессия, Elastic Net                       |
+| 05 | Feature Engineering                                         | Пропуски, выбросы, кодирование, работа с категорийными(категориальными) данными                                          |
 | 06 | Cross-validation, Grid Search & Random Search               | Train/test, Train/validation/test, GridSearchCV, RandomSearch             |
-| 07 | Logistic Regression                                         | Теория, реализация и работа с моделью, бинарная классификация, ROC-кривая,
-                                                                     Мультиклассовая Логистическая Регрессия                                   |
+| 07 | Logistic Regression                                         | Теория, реализация и работа с моделью, бинарная классификация, ROC-кривая, Мультиклассовая Логистическая Регрессия       |
 | 08 | K-Nearest Neighbors                                         | Метод, расстояние, выбор `k`, классификация                               |
 | 09 | Support Vector Machines (SVM)                               | Теория, линейные и kernel SVM, классификация и регрессия                  |
 | 10 | Decision Trees                                              | Теория, построение дерева, Gini, визуализация                             |
 | 11 | Random Forests                                              | Теория, ансамбли, параметры, классификация и регрессия                    |
 | 12 | Boosted Trees (AdaBoost & Gradient Boosting)                | Теория, идея слабых моделей, AdaBoost и градиентный бустинг               |
-| 13 | NLP & Naive Bayes                                           | CountVectorizer, TF-IDF, Байесовская классификация, извлечение признаков
-                                                                     из текста, классификация текста                                           |
+| 13 | NLP & Naive Bayes                                           | CountVectorizer, TF-IDF, Байесовская классификация, извлечение признаков из текста, классификация текста                 |
 | 14 | Clustering: K-Means                                         | Теория, метод локтя, метод силуэтов, квантование цветов                   |
 | 15 | Clustering: Hierarchical                                    | Дендрограммы, агломеративная кластеризация                                |
 | 16 | DBSCAN                                                      | Теория, кластеризация на основе плотности, гиперпараметры                 |
